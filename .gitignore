@@ -2,5 +2,9 @@
 .env.local
 .env.*.local
 
+# Dependencies and build output
+node_modules/
+dist/
+
 # Allow the example template
 !.env.example
