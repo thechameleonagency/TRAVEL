@@ -1,5 +1,4 @@
 # Local environment files (contain secrets / per-machine config)
-.env
 .env.local
 .env.*.local
 
